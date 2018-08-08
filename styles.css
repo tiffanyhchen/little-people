@@ -1,0 +1,21 @@
+/* html, body{
+  margin: 0;
+  top: 0px; 
+  left: 0px;
+  height: 100%; 
+  overflow-x: hidden; 
+  overflow-y: auto;
+  position: absolute;
+} */
+
+html{
+  overflow: hidden;
+  height: 100%;
+  margin: 0;
+}
+body {
+  height: 100%;
+  overflow: auto;
+  margin: 0;
+  width: 100%;
+}
